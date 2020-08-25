@@ -1,4 +1,4 @@
-## this is a shiny app for population models
+## this is a shiny app
 ## author: amy le
 ## date: may 15, 2017
 
